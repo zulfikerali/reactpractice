@@ -4,19 +4,13 @@
       "id": 1,
       "text": "Doctors Appoinment",
       "day": "Feb 5th at 2.30pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "text": "Meeting",
       "day": "March 23th at Thuesday",
-      "reminder": false,
-      "id": 4
-    },
-    {
-      "text": "Basa",
-      "day": "25th family",
       "reminder": true,
-      "id": 5
+      "id": 4
     }
   ]
 }
